@@ -19,3 +19,8 @@ header-logo {
   height: 55px;
   object-fit: contain;
 }
+eader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
